@@ -20,6 +20,8 @@ The purpose of this analysis was to determine the number of retiring employees p
 
 # Summary
 * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-There are a total of 72, 458 employees retiring. 
+ 
+There are a total of 72, 458 employees retiring, so Pewlett Hackard will need to hire approximately 72, 000 people. 
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
+
 Yes, there are enough qualified employees to mentor the next-generation of Pewlett Hackard employees. 
